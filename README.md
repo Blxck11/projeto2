@@ -1,4 +1,4 @@
-# Trabalho Prático - Semana-01
+# Trabalho Prático - Semana-02
 
 ## Informações Gerais
 Nome: Guilherme Henrique Costa de Jesus
